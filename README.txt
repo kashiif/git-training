@@ -1,3 +1,3 @@
 My first GIT repo
 
-- Kashif
+- Kashif Iqbal Khan
